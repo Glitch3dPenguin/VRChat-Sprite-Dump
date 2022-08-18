@@ -3,7 +3,7 @@
 A complete and up-to-date dump of VRChat's sprites.
 
 ## Sprites In Pack:
-![](https://cdn.klabsdev.com/VRChatSprites/360_RT-sharedassets0.assets-569.png | width=50)
+<img src="https://cdn.klabsdev.com/VRChatSprites/360_RT-sharedassets0.assets-569.png" width="150" height="280">
 ![](https://cdn.klabsdev.com/VRChatSprites/active-resources.assets-96.png | width=50)
 ![](https://cdn.klabsdev.com/VRChatSprites/Add-sharedassets0.assets-758.png | width=50)
 ![](https://cdn.klabsdev.com/VRChatSprites/Aden-resources.assets-141.png | width=50)
