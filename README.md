@@ -3,18 +3,7 @@
 A complete and up-to-date dump of VRChat's sprites.
 
 ## Sprites In Pack:
-<img src="https://cdn.klabsdev.com/VRChatSprites/360_RT-sharedassets0.assets-569.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/active-resources.assets-96.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/Add-sharedassets0.assets-758.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/Aden-resources.assets-141.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/AFK-sharedassets0.assets-279.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/alert-sharedassets0.assets-580.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/Amaro-resources.assets-115.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/AnchorCenter-sharedassets0.assets-585.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/AnchorLeft-sharedassets0.assets-296.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/AnchorRight-sharedassets0.assets-643.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/angry-sharedassets0.assets-587.png" width="100">
-<img src="https://cdn.klabsdev.com/VRChatSprites/AreaTex-resources.assets-144.png" width="100">
+<img src="https://cdn.klabsdev.com/VRChatSprites/360_RT-sharedassets0.assets-569.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/active-resources.assets-96.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/Add-sharedassets0.assets-758.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/Aden-resources.assets-141.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/AFK-sharedassets0.assets-279.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/alert-sharedassets0.assets-580.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/Amaro-resources.assets-115.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/AnchorCenter-sharedassets0.assets-585.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/AnchorLeft-sharedassets0.assets-296.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/AnchorRight-sharedassets0.assets-643.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/angry-sharedassets0.assets-587.png" width="100"><img src="https://cdn.klabsdev.com/VRChatSprites/AreaTex-resources.assets-144.png" width="100">
 <img src="https://cdn.klabsdev.com/VRChatSprites/Arrow_Down-sharedassets0.assets-680.png" width="100">
 <img src="https://cdn.klabsdev.com/VRChatSprites/Arrow_Left-sharedassets0.assets-426.png" width="100">
 <img src="https://cdn.klabsdev.com/VRChatSprites/Arrow_Right-sharedassets0.assets-343.png" width="100">
